@@ -1,7 +1,17 @@
 .A span{ 
-    position: relative;
-    left : 660px;
+    padding-right: 20px;
+    padding-left: 450px;
 }
 .A{
-    padding:100px;
+    padding:0px 160px;
+    background-color:#1F2937;
+    color:white;
+}
+.main{
+    font-size:48px;
+    font-family: extra-bold;
+    color:#f9f1f8;
+}
+a{
+    padding-right: 20px;
 }
